@@ -1,0 +1,15 @@
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.csproj.AssemblyReference.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.AssemblyInfoInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.AssemblyInfo.cs
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.csproj.CoreCompileInputs.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\bin\Debug\net6.0\dz_58.exe
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\bin\Debug\net6.0\dz_58.deps.json
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\bin\Debug\net6.0\dz_58.runtimeconfig.json
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\bin\Debug\net6.0\dz_58.dll
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\bin\Debug\net6.0\dz_58.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.dll
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\refint\dz_58.dll
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.pdb
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\dz_58.genruntimeconfig.cache
+C:\Users\bogda\OneDrive\Рабочий стол\dz_13.06.2023\dz_54_56_58_60_62\dz_58\obj\Debug\net6.0\ref\dz_58.dll
